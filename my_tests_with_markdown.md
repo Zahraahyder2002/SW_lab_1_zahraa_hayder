@@ -1,0 +1,4 @@
+# lab1
+# h1
+* What are the uses of GitHub
+ It is used to store the code of a project, and keep track of the full history of all changes made to that code. It allows developers to collaborate on a project more efficiently by providing tools to manage potentially conflicting changes from multiple developers. It allows developers to change, develop, and improve software from its public repositories.  Free, but fees apply to private repositories. Each public or private repository contains all project files, as well as a history of previous versions of each file. Repositories can contain multiple collaborators.*
